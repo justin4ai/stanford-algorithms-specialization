@@ -1,2 +1,1 @@
-
-[Coursera1.pdf](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/files/9332764/Coursera1.pdf)
+![image](https://user-images.githubusercontent.com/63603383/184524367-51c55f69-af5c-4374-954c-4c63e8908708.png)
