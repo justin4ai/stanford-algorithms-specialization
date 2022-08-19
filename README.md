@@ -3,7 +3,7 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
 [Lecture link](https://www.coursera.org/specializations/algorithms)
 
 ## 1. Divide and Conquer, Sorting and Searching, and Randomized Algorithms
-
+Completed / April 25, 2022 ~ May 16, 2022<br>
 Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-divide-conquer)
 
 - Week 1:
@@ -43,7 +43,7 @@ Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-divi
     - Random Contraction Algorithm
 
 ## 2. Graph Search, Shortest Paths, and Data Structures
-
+Completed / May 30, 2022 ~ June 19, 2022<br>
 Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-graphs-data-structures)
 
 
@@ -86,7 +86,7 @@ Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-grap
     - Bloom Filters
 
 ## 3. Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
-
+Completed / July 30, 2022 ~ August 19, 2022<br>
 Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-greedy)
 
 
