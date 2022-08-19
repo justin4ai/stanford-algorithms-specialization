@@ -54,7 +54,7 @@ Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-grap
 
 
 - <strong>Week 1</strong>:
-  - 10: Graph Search and Connectivity
+  - 10: Graph Search and Connectivity:
     - Generic Graph Search
     - Breadth-First Search (BFS)
     - Application: Shortest Paths
@@ -63,37 +63,37 @@ Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-grap
     - Application: Topological Sort
     - Strongly Connected Components(SCC / Kosaraju’s Two‐Pass Algorithm)
     - (Optional)Structure of the Web
-  - ☑️[Programming Assignment](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course2/Week1/Course2_PA1.ipynb)
+  - ☑️[Programming Assignment - Kosaraju's algorithm](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course2/Week1/Course2_PA1.ipynb)
 - <strong>Week 2</strong>:
-  - 11: Dijkstra's Shortest-Path Algorithm
+  - 11: Dijkstra's Shortest-Path Algorithm:
     - Dijkstra’s Algorithm
     - Correctness
     - Fast Implementation with Heap
-  - ☑️[Programming Assignment](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course2/Week2/Course2_PA2.ipynb)
+  - ☑️[Programming Assignment - Dijkstra's algorithm](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course2/Week2/Course2_PA2.ipynb)
 - <strong>Week 3</strong>:
-  - 12: Heaps
+  - 12: Heaps:
     - Heap: Supported Operations
     - Application: Sorting
     - Application: Event Manager
     - Application: Median Maintenence
     - Application: Speeding Up Dijkstra
     - Array Implementation, Insert and Bubble‐Up, Extract‐Min and Bubble‐Down
-  - 13: Balanced Binary Search Trees
+  - 13: Balanced Binary Search Trees:
     - Balanced Search Trees: Supported Operations
     - Binary Search Tree (Searching and Inserting; Min, Max, Pred, And Succ; In-Order Traversal; Deletion; Select and Rank)
     - Balanced Search Trees: (Red-Black)
     - (Optional)Rotations
     - (Optional)Insertion In A Red-Black Tree
-  - ☑️[Programming Assignment](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course2/Week3/Course2_PA3.ipynb)
+  - ☑️[Programming Assignment - Median maintenance using heap](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course2/Week3/Course2_PA3.ipynb)
 - <strong>Week 4</strong>:
-  - 14: Hashing
+  - 14: Hashing:
     - Hash Table:
     - Resolving Collisions (Good Hash Function / Bad Hash Function)
   - 15: Universal Hash Functions:
     - Motivation
-  - 16: Bloom Filters
+  - 16: Bloom Filters:
     - Bloom Filters
-  - ☑️[Programming Assignment](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course2/Week4/Course2_PA4.ipynb)
+  - ☑️[Programming Assignment - 2-sum with multiple targets](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course2/Week4/Course2_PA4.ipynb)
 
 ## 3. Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
 ✔️Completed / July 30, 2022 ~ August 19, 2022<br>
@@ -103,19 +103,19 @@ Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-gree
 - <strong>Week 1</strong>: 
   - Greedy algorithm
   - Prim's Minimum Spanning Tree
-  - ☑️[Programming Assignment](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course3/Week1/Course3_PA1.ipynb)
-- <strong>Week 2</strong>: 
+  - ☑️[Programming Assignment - Greedy algorithm with job scheduling + Prim's MST](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course3/Week1/Course3_PA1.ipynb)
+- <strong>Week 2</strong>:
   - Kruskal's MST algorithm
   - Applications to clustering
   - (Advanced) Union-find
-  - ☑️[Programming Assignment](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course3/Week2/Course3_PA2.ipynb)
+  - ☑️[Programming Assignment - Max-spacing k-clustering using kruskal's MST algorithm](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course3/Week2/Course3_PA2.ipynb)
 - <strong>Week 3</strong>: 
   - Huffman's Algorithm
   - Introduction to dynamic programming
   - Independent set
-  - ☑️[Programming Assignment](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course3/Week3/Course3_PA3.ipynb)
+  - ☑️[Programming Assignment - Huffman coding + MWIS](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course3/Week3/Course3_PA3.ipynb)
 - <strong>Week 4</strong>:
   - Knapsack Algorithm
   - Sequence alignment
-  - ☑️[Programming Assignment](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course3/Week4/Course3_PA4.ipynb)
+  - ☑️[Programming Assignment - Knapsack problem](https://github.com/AhnJunYeong0319/stanford-algorithms-specialization/blob/main/Course3/Week4/Course3_PA4.ipynb)
   - Optimal binary search trees
