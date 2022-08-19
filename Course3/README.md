@@ -1,6 +1,7 @@
 <p align = "center">
 <img src = "https://user-images.githubusercontent.com/63603383/185631623-47f4f887-e1ae-4e84-8af7-4a8c7de22ed2.png" width = "600" height = "450" />
 </p>
+
 ## 3. Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
 ✔️Completed / July 30, 2022 ~ August 19, 2022<br>
 Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-greedy)
