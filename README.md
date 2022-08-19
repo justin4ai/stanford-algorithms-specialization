@@ -2,7 +2,7 @@
 Learn To Think Like A Computer Scientist. Master the fundamentals of the design and analysis of algorithms.
 [Lecture link](https://www.coursera.org/specializations/algorithms)
 
-<font size=100>**&lt;Course 1&gt;**</font> <Completed / April 25, 2022 ~ May 16, 2022>
+<font size=100><strong>&lt;Course 1&gt;</strong></font> <Completed / April 25, 2022 ~ May 16, 2022>
 - Divide and Conquer, Sorting and Searching, and Randomized algorithms
 
 **&lt;Course 2&gt; <Completed / May 30, 2022 ~ June 19, 2022>**
